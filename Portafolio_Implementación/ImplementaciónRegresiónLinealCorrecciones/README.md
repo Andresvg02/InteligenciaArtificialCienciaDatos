@@ -1,4 +1,5 @@
 Este proyecto implementa un modelo de regresión lineal simple utilizando el algoritmo de gradiente descendente para ajustar los parámetros. El objetivo es predecir los valores de la columna Valks (la variable dependiente) basándose en la columna Celsius (la variable independiente) del archivo Valhalla23.csv.
+
 Criterio para la Selección de Tasa de Aprendizaje y Parámetros Iniciales
 Tasa de Aprendizaje(α): Se seleccionó una tasa de aprendizaje pequeña (0.0001) para asegurar que el modelo converja lentamente pero de manera estable. Esto evita que los saltos en la actualización de los parámetros sean demasiado grandes, lo que podría llevar a que el modelo no converja correctamente.
 

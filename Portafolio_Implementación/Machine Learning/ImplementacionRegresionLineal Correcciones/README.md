@@ -1,3 +1,4 @@
+# Implementación Regresión Lineal Sin Framework
 Este proyecto implementa un modelo de regresión lineal simple utilizando el algoritmo de gradiente descendente para ajustar los parámetros. El objetivo es predecir los valores de la columna Valks (la variable dependiente) basándose en la columna Celsius (la variable independiente) del archivo Valhalla23.csv.
 
 Criterio para la Selección de Tasa de Aprendizaje y Parámetros Iniciales

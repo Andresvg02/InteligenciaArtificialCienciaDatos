@@ -6,3 +6,4 @@
 - Act 10 Regresión Lineal
 - Act 11 Nuevos Modelos
 - Act 12 Regresión Lineal Análisis de Errores
+- Actividad Integradora

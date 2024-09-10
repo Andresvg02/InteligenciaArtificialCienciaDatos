@@ -1,4 +1,4 @@
-# Archivo Modulo 1
+# Archivos Modulo 1
 - Act 6 Distribuciones Muestrales y TLC
 - Act 7 Intervalos de Confianza
 - Act 8 Pruebas de Hipótesis

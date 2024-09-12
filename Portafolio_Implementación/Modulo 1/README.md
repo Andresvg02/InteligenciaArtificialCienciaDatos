@@ -7,4 +7,4 @@
 - Act 11 Nuevos Modelos
 - Act 12 Regresión Lineal Análisis de Errores
 - Act 13 Regresión No Lineal
-- Actividad Integradora
+- Actividad Integradora 2

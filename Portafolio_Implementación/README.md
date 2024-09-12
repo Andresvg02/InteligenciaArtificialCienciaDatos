@@ -14,3 +14,4 @@
   - Act10 Regresión Lineal
   - Act11 Nuevos modelos
   - Act12 Regresión Lineal Análisis de errores
+  - Act13 Regresión No Lineal
